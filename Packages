@@ -1,0 +1,24 @@
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <at.supermamon@gmail.com>
+Author: Reposi3 <at.supermamon@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.reposi3.oldpackage-1.0.0-1.deb
+Size: 754
+MD5sum: eb9ac8cd0ccaf483f1a960f2165bc1a8
+Description: This is an old package. Requires iOS 7 and below.
+Name: Old Package
+Depiction: https://supermamon.github.io/reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.julioverne.ext3nder-installer_16.7.deb
+Version: 16.7
+Section: Tweaks
+Maintainer: AnimaTheAeon
+Author: Julio
+Architecture: iphoneos-arm
+Filename: ./debs/com.julioverne.ext3nder-installer_16.7.deb
+Size: 475688
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
+Description: This is a test package I uploaded. I do not own it. Does not work on iOS 11.
+Depiction: https://supermamon.github.io/reposi3/depictions/?p=com.supermamon.oldpackage
