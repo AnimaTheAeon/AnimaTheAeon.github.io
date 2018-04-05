@@ -1,7 +1,11 @@
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
 Section: Tweaks
+<<<<<<< HEAD
 Maintainer: AnimaTheAeon
+=======
+Maintainer: AnimaTheAeon <at.supermamon@gmail.com>
+>>>>>>> 337babcf554067c5fafc1900937df7a399d81623
 Author: Reposi3 <at.supermamon@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.reposi3.oldpackage-1.0.0-1.deb
