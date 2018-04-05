@@ -11,15 +11,15 @@ Description: This is an old package. Requires iOS 7 and below.
 Name: Old Package
 Depiction: https://supermamon.github.io/reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: com.spark.Hyperion-0.0.6-28.deb
-Version: 0.0.1
+Package: com.spark.hyperion
+Version: 0.0.6-28
 Section: Tweaks
 Maintainer: AnimaTheAeon
-Author: SparkDev
+Author: Spark
 Architecture: iphoneos-arm
 Filename: ./debs/com.spark.Hyperion-0.0.6-28.deb
 Size: 211412
 MD5sum: b9e503694de92837262b42f9e1a64203
-Description: An amazing tweak for notifications.
+Description: OLED notification tweak
 Name: Hyperion
 Depiction: https://AnimaTheAeon.github.io/depictions/?p=com.spark.Hyperion-0.0.6-28
