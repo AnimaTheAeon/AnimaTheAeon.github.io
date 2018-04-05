@@ -1,25 +1,13 @@
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <at.supermamon@gmail.com>
-Author: Reposi3 <at.supermamon@gmail.com>
-Architecture: iphoneos-arm
-Filename: ./debs/com.reposi3.oldpackage-1.0.0-1.deb
-Size: 754
-MD5sum: eb9ac8cd0ccaf483f1a960f2165bc1a8
-Description: This is an old package. Requires iOS 7 and below.
-Name: Old Package
-Depiction: https://supermamon.github.io/reposi3/depictions/?p=com.supermamon.oldpackage
-
 Package: com.spark.hyperion
+Architecture: iphoneos-arm
 Version: 0.0.6-28
 Section: Tweaks
 Maintainer: AnimaTheAeon
-Author: Spark
-Architecture: iphoneos-arm
-Filename: ./debs/com.spark.Hyperion-0.0.6-28.deb
+Depends: mobilesubstrate
+Filename: ./com.spark.Hyperion-0.0.6-28.deb
 Size: 211412
 MD5sum: b9e503694de92837262b42f9e1a64203
 Description: OLED notification tweak
 Name: Hyperion
+Author: Spark
 Depiction: https://AnimaTheAeon.github.io/depictions/?p=com.spark.Hyperion-0.0.6-28
