@@ -22,3 +22,17 @@ Size: 475688
 MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
 Description: This is a test package I uploaded. I do not own it. Does not work on iOS 11.
 Depiction: https://supermamon.github.io/reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.spark.Hyperion-0.0.6-28.deb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: AnimaTheAeon
+Filename: /com.spark.Hyperion-0.0.6-28.deb
+Size: 211412
+MD5sum: b9e503694de92837262b42f9e1a64203
+SHA1: f7ada6541aeb4cc2368e6d250a51cd1f3f686601
+SHA256: ea5b614640c5d87b2679faea99880f11bb3b8395a2053a82a808e664393ee877
+Section: Tweaks
+Description: An awesome mobile substrate tweak
+Author: SparkDev
+Name: Hyperion
