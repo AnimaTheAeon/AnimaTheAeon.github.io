@@ -8,3 +8,22 @@ Author: Spark
 Section: Tweaks
 Version: 0.0.6-28
 Installed-Size: 892
+
+Package: com.julioverne.ext3nder-installer
+Filename: ./debs/com.julioverne.ext3nder-installer.deb
+Name: Ext3nder Installer
+Author: julioverne, MidnightChips
+Version: 16.7
+Pre-Depends: unzip, zip, sed, curl
+Conflicts: com.julioverne.ext3nder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Extender Installer With Extra Features, patched for iOS 11: MidnightChips
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio, MidnightChips
+Section: Utilities
+Depiction: https://midnightchip.github.io/repo/depictions/?p=com.julioverne.ext3nder-installer
+Size: 475688
+SHA1: 0f5626113d5a90431979f3a09f3c5b0a56d2f1db
+SHA256: 1cd5ce01bdc7e19c383842b672345311bca3213a43be9e9ed69a41b18021073f
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
