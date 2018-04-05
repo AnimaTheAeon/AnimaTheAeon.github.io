@@ -17,7 +17,7 @@ Section: Tweaks
 Maintainer: AnimaTheAeon
 Author: SparkDev
 Architecture: iphoneos-arm
-Filename: /debs/com.spark.Hyperion-0.0.6-28.deb
+Filename: ./debs/com.spark.Hyperion-0.0.6-28.deb
 Size: 211412
 MD5sum: b9e503694de92837262b42f9e1a64203
 Description: An amazing tweak for notifications.
