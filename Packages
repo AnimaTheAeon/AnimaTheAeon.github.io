@@ -1,13 +1,10 @@
 Package: com.spark.hyperion
-Architecture: iphoneos-arm
-Version: 0.0.6-28
-Section: Tweaks
-Maintainer: AnimaTheAeon
+Name: Hyperion [Members Plus]
 Depends: mobilesubstrate
-Filename: ./com.spark.Hyperion-0.0.6-28.deb
-Size: 211412
-MD5sum: b9e503694de92837262b42f9e1a64203
+Architecture: iphoneos-arm
 Description: OLED notification tweak
-Name: Hyperion
+Maintainer: Spark
 Author: Spark
-Depiction: https://AnimaTheAeon.github.io/depictions/?p=com.spark.Hyperion-0.0.6-28
+Section: Tweaks
+Version: 0.0.6-28
+Installed-Size: 892
