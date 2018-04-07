@@ -9,3 +9,45 @@ Size: 475688
 MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
 Description: This is a test package I uploaded. I do not own it. Does not work on iOS 11.
 Depiction: https://supermamon.github.io/reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iPwned <test@email.com>
+Filename: /com.julioverne.ext3nder-installer_16.7.deb
+Size: 475688
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
+SHA1: 0f5626113d5a90431979f3a09f3c5b0a56d2f1db
+SHA256: 1cd5ce01bdc7e19c383842b672345311bca3213a43be9e9ed69a41b18021073f
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Ext3nder
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iPwned <test@email.com>
+Filename: /com.julioverne.ext3nder-installer_16.7.deb
+Size: 475688
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
+SHA1: 0f5626113d5a90431979f3a09f3c5b0a56d2f1db
+SHA256: 1cd5ce01bdc7e19c383842b672345311bca3213a43be9e9ed69a41b18021073f
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Ext3nder
+
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iPwned <test@email.com>
+Filename: /com.julioverne.ext3nder-installer_16.7.deb
+Size: 475688
+MD5sum: 13ec7414f40a7360cbd3dfcd913ed36e
+SHA1: 0f5626113d5a90431979f3a09f3c5b0a56d2f1db
+SHA256: 1cd5ce01bdc7e19c383842b672345311bca3213a43be9e9ed69a41b18021073f
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: iPwned <test@email.com>
+Name: Ext3nder
